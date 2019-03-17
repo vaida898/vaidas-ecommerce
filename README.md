@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/vaida898/vaidas-ecommerce.svg?branch=master)](https://travis-ci.org/vaida898/vaidas-ecommerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
